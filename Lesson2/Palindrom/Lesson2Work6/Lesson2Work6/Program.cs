@@ -29,6 +29,10 @@ namespace Lesson2Work6
                         Console.Write("Число не палиндром");
                     }
                 }
+                else
+                {
+                    Console.Write("Введите целое число!");
+                }
             }           
 
             bool isPalindrom(int num)

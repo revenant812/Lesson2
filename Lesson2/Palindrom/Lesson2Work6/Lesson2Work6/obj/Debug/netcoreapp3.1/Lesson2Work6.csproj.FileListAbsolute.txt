@@ -11,3 +11,16 @@ C:\Users\Дима\Desktop\LocalRepo\Lesson2\6\Lesson2Work6\Lesson2Work6\obj\Debu
 C:\Users\Дима\Desktop\LocalRepo\Lesson2\6\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.dll
 C:\Users\Дима\Desktop\LocalRepo\Lesson2\6\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.pdb
 C:\Users\Дима\Desktop\LocalRepo\Lesson2\6\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.genruntimeconfig.cache
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\bin\Debug\netcoreapp3.1\Lesson2Work6.exe
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\bin\Debug\netcoreapp3.1\Lesson2Work6.deps.json
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\bin\Debug\netcoreapp3.1\Lesson2Work6.runtimeconfig.json
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\bin\Debug\netcoreapp3.1\Lesson2Work6.runtimeconfig.dev.json
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\bin\Debug\netcoreapp3.1\Lesson2Work6.dll
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\bin\Debug\netcoreapp3.1\Lesson2Work6.pdb
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.AssemblyInfo.cs
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.dll
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.pdb
+C:\Users\Дима\Desktop\LocalRepo\Lesson2\Palindrom\Lesson2Work6\Lesson2Work6\obj\Debug\netcoreapp3.1\Lesson2Work6.genruntimeconfig.cache
