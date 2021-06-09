@@ -15,8 +15,8 @@ namespace Lesson3Work3
             for(int i = 0; i < CharArr.Length; i++)
             {
                 newArrChar[i] = CharArr[(CharArr.Length - i - 1)];
-                Console.WriteLine(newArrChar[i]);
             }
+            Console.WriteLine(new string(newArrChar));
 
         }
     }
