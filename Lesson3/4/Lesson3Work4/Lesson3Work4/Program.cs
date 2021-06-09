@@ -11,7 +11,7 @@ namespace Lesson3Work4
             string coord1 = Console.ReadLine();
             int x = Convert.ToInt32(coord1);
             
-            if(x > 6)
+            if(x > 6) //крайняя точка когда корабль влезает в массив 10x10
             {
                 Console.WriteLine("Значение вне диапозона.");
                 return;
@@ -39,46 +39,40 @@ namespace Lesson3Work4
             Console.Write("Введите расположение первого корабля (вертикального) по оси Y (начальная точка): ");
             string coord4 = Console.ReadLine();
             int i = Convert.ToInt32(coord4);
-            
-            if (i > 6)
+             
+            if (i > 6) //крайняя точка когда корабль влезает в массив 10x10
             {
                 Console.WriteLine("Значение вне диапозона.");
                 return;
             }
 
             char[,] array = new char[10, 10]; //создание массива 10x10 
-            //Заполнение массива символами O
+            
             for (int m = 0; m < 10; m++)
             {
                 Console.WriteLine();
                 for (int n = 0; n < 10; n++)
                 {
-                    if (n >= x && n < (x + 4) && m == y)
+                    if (n >= x && n < (x + 4) && m == y)     //рисунок горизонтального корабля
                     {
-                        array[m, n] = 'X';
+                        array[m, n] = 'X';                    
                         Console.Write($"{array[m, n]}  ");
                     }
                     
-                    else if (n == z && m >= i && m < (i + 4))
+                    else if (n == z && m >= i && m < (i + 4)) //рисунок вертикального корабля
                     {
                         array[m, n] = 'X';
                         Console.Write($"{array[m, n]}  ");
                     }
                     else
                     {
-                        array[m, n] = 'O';
+                        array[m, n] = 'O';  //Заполнение массива символами O
                         Console.Write($"{array[m, n]}  ");
                     }
                     
                 }
-            }
-                                                                             
+            }                                                                             
             Console.WriteLine();
-
-            //Расстановка кораблей  
-            
-        }
-
-        
+        }        
     }
 }
